@@ -1,5 +1,5 @@
 # Data-Science-Notebooks
-Collection of various Jupyter Notebooks 
+Collection of various Jupyter Notebooks Use NBVIEWER to view them: https://nbviewer.jupyter.org/
 # 1. Optimization Algos
 This notebook presents 4 different optimization algorithms, compares their accuracy and speed. The algorithms were originally written in R and this is Python adaptation of he code.
 # 2. Stock Rater
